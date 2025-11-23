@@ -1,10 +1,23 @@
 # 💫 About Me:
-I’m Omar Hany Shalaby — a cybersecurity specialist, security tool developer, and penetration testing researcher. I focus on building practical security tools and delivering real, effective solutions that help individuals and businesses protect their systems. I’m passionate about creating high-quality, reliable work that leaves a strong impression, and I always aim to combine technical depth with simplicity and speed. If you're looking for someone who turns ideas into solid, functional results, that’s exactly what I do.
+I’m **Omar Hany Shalaby** — cybersecurity specialist, security tool developer, penetration testing researcher, and **Founder of OrcaTech**, a company focused on building high-performance, secure, modern web solutions.
+
+I develop practical security tools and deliver real, effective solutions that help individuals and businesses protect their systems. I’m passionate about creating high-quality, reliable work that leaves a strong impression, and I always aim to combine technical depth with simplicity and speed.
+
+If you're looking for someone who turns ideas into solid, functional results — that’s exactly what I do.
+
+---
+
+## 🏢 Company:
+[![OrcaTech](https://img.shields.io/badge/OrcaTech-0A84FF?style=for-the-badge&logo=cloudflare&logoColor=white)](https://orcatech.vercel.app)
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/omar.d3v)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/omar.d3v)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omar55shalaby@gmail.com)
+
+---
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,18 +56,28 @@ I’m Omar Hany Shalaby — a cybersecurity specialist, security tool developer,
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OmarHany-sudo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=OmarHany-sudo&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=python)
 ![](https://nirzak-streak-stats.vercel.app/?user=OmarHany-sudo&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHany-sudo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+---
+
+## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=OmarHany-sudo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+---
+
+### ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
+---
+
+### 🔝 Top Contributed Repo  
 ![](https://github-contributor-stats.vercel.app/api?username=OmarHany-sudo&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
 
 [![](https://visitcount.itsvg.in/api?id=OmarHany-sudo&icon=0&color=0)](https://visitcount.itsvg.in)
