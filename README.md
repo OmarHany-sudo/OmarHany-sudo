@@ -8,7 +8,7 @@ If you're looking for someone who turns ideas into solid, functional results —
 ---
 
 ## 🏢 Company:
-[![OrcaTech](https://img.shields.io/badge/OrcaTech-0A84FF?style=for-the-badge&logo=cloudflare&logoColor=white)](https://orcatech.vercel.app)
+[![OrcaTech](https://img.shields.io/badge/OrcaTech-0A84FF?style=for-the-badge&logo=cloudflare&logoColor=white)](https://orcatech.netlify.app)
 
 ---
 
